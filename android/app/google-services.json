@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510595489754",
+    "project_id": "gym-management-system-c5598",
+    "storage_bucket": "gym-management-system-c5598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510595489754:android:1e8514576cfd5d24ce2ae3",
+        "android_client_info": {
+          "package_name": "com.example.gms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQCDQOLudBibkUiSBdJD8toZx0tE5gzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
